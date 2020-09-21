@@ -1,7 +1,0 @@
-﻿throws exception
-https://partnerapi.funda.nl/feeds/Aanbod.svc/ac1b0b1572524640a0ecc54de453ea9f/?type=makelaar&zo=&page=1&pagesize=1
-
-https://stackoverflow.com/questions/22560971/what-is-the-overhead-of-creating-a-new-httpclient-per-call-in-a-webapi-client/22561368#22561368
-
-API https
-api cpouint is off
